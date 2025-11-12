@@ -1,0 +1,56 @@
+[
+    {
+        "emp_id": 101,
+        "emp_name": "Amit Sawant",
+        "salary": 55000.0,
+        "email": "amit.sawant@example.com",
+        "projects": [
+            {
+                "project_id": 1,
+                "project_name": "Data Science Dashboard",
+                "status": "Ongoing"
+            },
+            {
+                "project_id": 2,
+                "project_name": "AI Chatbot System",
+                "status": "Pending"
+            }
+        ]
+    },
+    {
+        "emp_id": 102,
+        "emp_name": "Adarsh Shinde",
+        "salary": 25000.0,
+        "email": "adarsh@example.com",
+        "projects": [
+            {
+                "project_id": 1,
+                "project_name": "Data Science Dashboard",
+                "status": "Ongoing"
+            },
+            {
+                "project_id": 3,
+                "project_name": "Web API",
+                "status": "Completed"
+            }
+        ]
+    },
+    {
+        "emp_id": 104,
+        "emp_name": "shreyas sawant",
+        "salary": 55000.0,
+        "email": "ss@example.com",
+        "projects": [
+            {
+                "project_id": 3,
+                "project_name": "Web API",
+                "status": "Completed"
+            },
+            {
+                "project_id": 5,
+                "project_name": "Finanance Dashboard",
+                "status": "Ongoing"
+            }
+        ]
+    }
+]
