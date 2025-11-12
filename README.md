@@ -102,6 +102,7 @@ Your API will run on
 
 **employees_project**
 | emp_id | project_id | status |
+|--------|------------|---------|
 
 ---
 
